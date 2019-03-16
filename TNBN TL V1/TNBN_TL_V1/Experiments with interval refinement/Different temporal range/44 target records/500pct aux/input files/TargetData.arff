@@ -1,0 +1,52 @@
+@relation 'Experiments with interval refinement/Different temporal range/44 target records/500pct aux/input files/TargetData.arff'
+@attribute 'Colision' {'Severo','Moderado','Leve'}
+@attribute 'Herida Cabeza' {'true','false'}
+@attribute 'Heridas Internas' {'Graves','Ligeras','Falso'}
+@attribute 'Pupilas Dilatadas' NUMERIC
+@attribute 'Signos Vitales' NUMERIC
+
+@data
+Moderado,false,Falso,-1,4.027519255813686
+Moderado,false,Graves,-1,5.544122697351849
+Moderado,true,Graves,28.74837459885049,4.892113797819555
+Moderado,false,Graves,-1,14.769242727254639
+Severo,true,Graves,7.31082521717257,3.9238265546042603
+Severo,true,Ligeras,9.022236669865986,9.066887262907558
+Moderado,false,Graves,-1,10.101562004947613
+Moderado,false,Graves,9.613843240150672,5.38417583148574
+Severo,true,Ligeras,5.933724944348802,3.8068659426124736
+Moderado,false,Falso,6.844751054947361,-1
+Leve,false,Falso,-1,-1
+Severo,true,Ligeras,10.979332922964142,7.555467763500024
+Severo,true,Graves,24.561554904841508,34.235478427193954
+Moderado,true,Graves,1.578546949724073,5.606835725727247
+Severo,true,Ligeras,2.225487927475114,9.633412136454366
+Severo,true,Ligeras,27.60732115999151,6.485210966119292
+Severo,true,Ligeras,5.822737347741274,-1
+Moderado,false,Falso,-1,-1
+Moderado,true,Graves,9.214100571591247,6.775973757416745
+Moderado,true,Graves,6.602724566875557,22.060807641028067
+Severo,true,Graves,1.6050151715232461,0.8789541118750863
+Leve,false,Falso,-1,-1
+Severo,true,Falso,11.635905713224027,-1
+Moderado,false,Graves,-1,2.1350012480068865
+Leve,false,Falso,-1,7.333193336610291
+Moderado,false,Graves,-1,37.07458371351822
+Moderado,false,Graves,-1,6.354518075372223
+Severo,true,Graves,13.849122802276305,6.925006449426422
+Moderado,false,Ligeras,5.8307657506608495,-1
+Leve,false,Ligeras,-1,-1
+Moderado,true,Graves,0.3986561350962594,5.85894604626983
+Severo,true,Graves,11.986066407050316,9.025925320935276
+Moderado,true,Ligeras,13.75909416812613,6.047517379542738
+Moderado,false,Graves,-1,17.529381255243734
+Severo,true,Ligeras,6.728725323515438,22.787379597222277
+Moderado,true,Graves,7.374530845197376,4.640660220755417
+Severo,true,Ligeras,38.33634259076948,2.452059738809653
+Moderado,true,Falso,30.879772823876277,3.6420554216881573
+Leve,true,Falso,7.491693058278613,32.99216768667408
+Leve,false,Falso,-1,-1
+Leve,false,Falso,-1,-1
+Severo,true,Graves,0.21629628211595886,5.5359436036310825
+Severo,true,Graves,6.222134710050972,8.285202713229953
+Moderado,true,Graves,5.264583054429822,3.007699370633853

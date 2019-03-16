@@ -1,0 +1,264 @@
+
+Repeticion:0 de 1
+Repeticion:0 de 1
+Repeticion:0 de 1
+Repeticion:0 de 1
+*******Init discretiza EWD
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[0.0-15.0]", "[15.0-30.0]", "[30.0-45.0]", "[45.0-60.0]", "Default"]
+Signos_Vitales	["[0.0-11.0]", "[11.0-22.0]", "[22.0-33.0]", "[33.0-45.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	1.1494380451980788	1.1494380451980788	0.0
+BS,ET,Combinada:	0.13296250008211308	14.8231	7.478031250041057
+*******Init kmeans
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[0.0-8.0]", "[8.0-18.0]", "[18.0-37.0]", "[37.0-59.0]", "Default"]
+Signos_Vitales	["[0.0-5.0]", "[5.0-14.0]", "[14.0-28.0]", "[28.0-44.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	1.1344374576654181	1.1344374576654181	0.0
+BS,ET,Combinada:	0.16859504032172018	17.31785	8.74322252016086
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["Default", "[30-60]", "[15-30]", "[0-15]"]
+Signos_Vitales	["Default", "[10-45]", "[0-10]"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13558898857223248	15.94885	8.042219494286117
+$$$$$$$OTRA VUELTA$$$$$$$$$:+1
+
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[2.0-27.0]", "[28.0-57.0]", "Default"]
+Signos_Vitales	["[11.0-17.0]", "[18.0-30.0]", "[31.0-42.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	1.0866843798174524	1.0866843798174524	0.0
+BS,ET,Combinada:	0.12755169518396783	13.80455	6.966050847591984
+Repeticion:0 de 1
+*******Init discretiza EWD
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[0.0-15.0]", "[15.0-30.0]", "[30.0-45.0]", "[45.0-59.0]", "Default"]
+Signos_Vitales	["[0.0-11.0]", "[11.0-23.0]", "[23.0-34.0]", "[34.0-45.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	1.0737475160002101	1.0737475160002101	0.0
+BS,ET,Combinada:	0.12207908108264409	14.1667	7.144389540541322
+*******Init kmeans
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[0.0-8.0]", "[8.0-17.0]", "[17.0-33.0]", "[33.0-59.0]", "Default"]
+Signos_Vitales	["[0.0-5.0]", "[5.0-14.0]", "[14.0-29.0]", "[29.0-44.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	1.0831242669011367	1.0831242669011367	0.0
+BS,ET,Combinada:	0.15868344411514196	16.05455	8.10661672205757
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["Default", "[30-60]", "[15-30]", "[0-15]"]
+Signos_Vitales	["Default", "[10-45]", "[0-10]"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13501085620507064	15.8349	7.984955428102535
+$$$$$$$OTRA VUELTA$$$$$$$$$:+1
+
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-16.0]", "[17.0-38.0]", "[39.0-55.0]", "Default"]
+Signos_Vitales	["[0.0-11.0]", "[12.0-20.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	1.0370547651695785	1.0370547651695785	0.0
+BS,ET,Combinada:	0.1235552211624711	14.5304	7.326977610581236
+Repeticion:0 de 1
+*******Init discretiza EWD
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[1.0-15.0]", "[15.0-30.0]", "[30.0-44.0]", "[44.0-59.0]", "Default"]
+Signos_Vitales	["[0.0-11.0]", "[11.0-21.0]", "[21.0-32.0]", "[32.0-42.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	1.0006910111808422	1.0006910111808422	0.0
+BS,ET,Combinada:	0.14095843655764256	15.5947	7.867829218278821
+*******Init kmeans
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[0.0-7.0]", "[7.0-20.0]", "[20.0-39.0]", "[39.0-58.0]", "Default"]
+Signos_Vitales	["[0.0-4.0]", "[4.0-14.0]", "[14.0-29.0]", "[29.0-42.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	1.0013022966731606	1.0013022966731606	0.0
+BS,ET,Combinada:	0.18448130832534096	13.2936	6.73904065416267
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["Default", "[30-60]", "[15-30]", "[0-15]"]
+Signos_Vitales	["Default", "[10-45]", "[0-10]"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13651563897038524	16.2838	8.210157819485193
+$$$$$$$OTRA VUELTA$$$$$$$$$:+1
+
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[4.0-14.0]", "[15.0-32.0]", "[33.0-39.0]", "[40.0-56.0]", "Default"]
+Signos_Vitales	["[3.0-10.0]", "[11.0-17.0]", "[18.0-28.0]", "[29.0-41.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	1.0065932136564057	1.0065932136564057	0.0
+BS,ET,Combinada:	0.13909422853843975	15.55735	7.84822211426922
+Repeticion:0 de 1
+*******Init discretiza EWD
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[0.0-14.0]", "[14.0-28.0]", "[28.0-41.0]", "[41.0-55.0]", "Default"]
+Signos_Vitales	["[0.0-11.0]", "[11.0-21.0]", "[21.0-32.0]", "[32.0-43.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	1.0403892711447842	1.0403892711447842	0.0
+BS,ET,Combinada:	0.13200949181100471	15.19875	7.665379745905502
+*******Init kmeans
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[0.0-7.0]", "[7.0-18.0]", "[18.0-36.0]", "[36.0-55.0]", "Default"]
+Signos_Vitales	["[0.0-3.0]", "[3.0-8.0]", "[8.0-23.0]", "[23.0-42.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	1.0314459504497595	1.0314459504497595	0.0
+BS,ET,Combinada:	0.17344928233671497	13.5529	6.863174641168357
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["Default", "[30-60]", "[15-30]", "[0-15]"]
+Signos_Vitales	["Default", "[10-45]", "[0-10]"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13740588237979606	15.74065	7.939027941189898
+$$$$$$$OTRA VUELTA$$$$$$$$$:+1
+
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[4.0-23.0]", "[24.0-49.0]", "Default"]
+Signos_Vitales	["[5.0-11.0]", "[12.0-21.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	0.9816771628092429	0.9816771628092429	0.0
+BS,ET,Combinada:	0.12632824064217676	13.17695	6.6516391203210885
+Repeticion:0 de 1
+*******Init discretiza EWD
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[0.0-15.0]", "[15.0-30.0]", "[30.0-45.0]", "[45.0-60.0]", "Default"]
+Signos_Vitales	["[0.0-11.0]", "[11.0-21.0]", "[21.0-32.0]", "[32.0-42.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	0.9503305441689366	0.9503305441689366	0.0
+BS,ET,Combinada:	0.14302088280558875	14.6753	7.409160441402794
+*******Init kmeans
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[0.0-6.0]", "[6.0-15.0]", "[15.0-30.0]", "[30.0-59.0]", "Default"]
+Signos_Vitales	["[0.0-4.0]", "[4.0-12.0]", "[12.0-25.0]", "[25.0-42.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	0.9239836309259338	0.9239836309259338	0.0
+BS,ET,Combinada:	0.1957521208263242	16.6672	8.431476060413162
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["Default", "[30-60]", "[15-30]", "[0-15]"]
+Signos_Vitales	["Default", "[10-45]", "[0-10]"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13614874083747075	16.07805	8.107099370418736
+$$$$$$$OTRA VUELTA$$$$$$$$$:+1
+
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[2.0-25.0]", "[26.0-50.0]", "Default"]
+Signos_Vitales	["[10.0-16.0]", "[17.0-16.0]", "[17.0-29.0]", "[30.0-40.0]", "Default"]
+
+Añadidos,borrados:	0	0
+SimStruct=	1.0
+KL,KL2, kL2-KL:	0.8626987405738501	0.8626987405738501	0.0
+BS,ET,Combinada:	0.13609161901010616	13.82815	6.982120809505053

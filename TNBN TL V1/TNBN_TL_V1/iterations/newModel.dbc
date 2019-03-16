@@ -1,0 +1,170 @@
+// Data Base. Elvira Format
+
+data-base Network {
+number-of-cases = 33;
+
+
+// Network Variables 
+
+node IDV(finite-states) {
+title = "IDV";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 2;
+states = ("false" "true");
+}
+
+node NFV(finite-states) {
+title = "NFV";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 2;
+states = ("false" "true");
+}
+
+node SQV(finite-states) {
+title = "SQV";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 2;
+states = ("false" "true");
+}
+
+node LPV(finite-states) {
+title = "LPV";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 2;
+states = ("false" "true");
+}
+
+node TPV(finite-states) {
+title = "TPV";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 2;
+states = ("false" "true");
+}
+
+node L63P(finite-states) {
+title = "L63P";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Default" "[176-332]" "[0-176]");
+}
+
+node I93L(finite-states) {
+title = "I93L";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Default" "[181-332]" "[0-181]");
+}
+
+node I62V(finite-states) {
+title = "I62V";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Default" "[73-144]" "[0-73]");
+}
+
+node L10I(finite-states) {
+title = "L10I";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Default" "[113-206]" "[0-113]");
+}
+
+node L90M(finite-states) {
+title = "L90M";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Default" "[82-171]" "[0-82]");
+}
+
+relation  {
+
+memory = true;
+
+cases = (
+[1,0,0,0,0,0,2,2,2,0]
+[1,0,0,0,0,2,0,1,0,2]
+[0,1,0,0,0,0,0,0,0,0]
+[0,1,0,1,0,2,2,0,0,0]
+[0,1,0,1,0,2,0,2,0,0]
+[0,1,1,0,0,0,0,0,0,0]
+[0,1,0,0,0,2,2,0,1,0]
+[1,0,1,0,0,0,0,0,0,0]
+[0,0,0,1,0,2,0,0,0,2]
+[1,0,0,0,0,2,0,1,2,1]
+[0,1,0,0,0,2,0,2,2,2]
+[0,1,1,0,0,2,0,2,2,1]
+[1,1,0,0,0,1,1,2,1,2]
+[0,0,0,0,0,0,0,0,0,0]
+[0,1,1,0,0,1,0,2,1,2]
+[0,1,1,0,0,2,0,0,2,0]
+[1,0,0,0,0,2,0,0,2,2]
+[0,0,1,0,0,2,0,2,2,2]
+[1,0,1,0,0,0,0,0,0,0]
+[0,1,0,0,0,1,2,1,1,1]
+[1,0,1,0,0,2,2,2,0,0]
+[0,1,0,0,0,2,2,0,0,0]
+[0,1,0,0,0,2,0,0,0,0]
+[0,0,1,0,0,2,0,0,1,1]
+[0,1,0,0,0,2,2,2,0,0]
+[0,1,0,0,0,2,0,2,0,2]
+[1,0,0,0,0,2,0,0,1,0]
+[0,0,1,1,0,2,0,0,0,0]
+[1,0,1,0,1,2,0,2,2,0]
+[0,1,0,0,0,0,0,0,0,0]
+[1,0,0,0,0,0,0,0,0,0]
+[0,1,0,0,0,2,0,0,2,1]
+[0,0,0,1,0,2,1,2,2,2]
+);
+
+}
+}

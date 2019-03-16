@@ -1,0 +1,70 @@
+----Obtener clusters
+Combinacion de padres num=0*** num clusters a buscar=1
+["[4.0-11.0]"]
+Combinacion de padres num=0*** num clusters a buscar=2
+["[4.0-6.0]", "[11.0-15.0]"]
+Combinacion de padres num=0*** num clusters a buscar=3
+[]
+Combinacion de padres num=1*** num clusters a buscar=1
+["[4.0-9.0]"]
+Combinacion de padres num=1*** num clusters a buscar=2
+[]
+Combinacion de padres num=1*** num clusters a buscar=3
+[]
+
+
+----ordenar clusters
+Intervalos a juntar
+["[4.0-11.0]"] ["[4.0-9.0]"]
+ordenados
+["[4.0-11.0]", "[4.0-9.0]"]
+Finales
+["[4.0-7.0]", "[8.0-9.0]"]
+Intervalos a juntar
+["[4.0-11.0]"] []
+ordenados
+["[4.0-11.0]"]
+Finales
+[]
+Intervalos a juntar
+["[4.0-11.0]"] []
+ordenados
+["[4.0-11.0]"]
+Finales
+[]
+Intervalos a juntar
+["[4.0-6.0]", "[11.0-15.0]"] ["[4.0-9.0]"]
+ordenados
+["[4.0-7.0]", "[11.0-15.0]"]
+Finales
+["[4.0-8.0]", "[9.0-15.0]"]
+Intervalos a juntar
+["[4.0-6.0]", "[11.0-15.0]"] []
+ordenados
+["[4.0-6.0]", "[11.0-15.0]"]
+Finales
+["[4.0-8.0]", "[9.0-15.0]"]
+Intervalos a juntar
+["[4.0-6.0]", "[11.0-15.0]"] []
+ordenados
+["[4.0-6.0]", "[11.0-15.0]"]
+Finales
+["[4.0-8.0]", "[9.0-15.0]"]
+Intervalos a juntar
+[] ["[4.0-9.0]"]
+ordenados
+["[4.0-9.0]"]
+Finales
+[]
+Intervalos a juntar
+[] []
+ordenados
+[]
+Finales
+[]
+Intervalos a juntar
+[] []
+ordenados
+[]
+Finales
+[]

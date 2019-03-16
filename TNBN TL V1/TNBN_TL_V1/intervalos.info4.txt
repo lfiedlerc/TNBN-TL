@@ -1,0 +1,94 @@
+----Obtener clusters
+Combinacion de padres num=0*** num clusters a buscar=1
+["[4.0-9.0]"]
+Combinacion de padres num=0*** num clusters a buscar=2
+["[3.0-6.0]", "[7.0-10.0]"]
+Combinacion de padres num=0*** num clusters a buscar=3
+["[3.0-5.0]", "[6.0-7.0]", "[8.0-10.0]"]
+Combinacion de padres num=1*** num clusters a buscar=1
+[]
+Combinacion de padres num=1*** num clusters a buscar=2
+[]
+Combinacion de padres num=1*** num clusters a buscar=3
+[]
+Combinacion de padres num=2*** num clusters a buscar=1
+["[4.0-9.0]"]
+Combinacion de padres num=2*** num clusters a buscar=2
+[]
+Combinacion de padres num=2*** num clusters a buscar=3
+[]
+Combinacion de padres num=3*** num clusters a buscar=1
+["[5.0-6.0]"]
+Combinacion de padres num=3*** num clusters a buscar=2
+[]
+Combinacion de padres num=3*** num clusters a buscar=3
+[]
+Combinacion de padres num=4*** num clusters a buscar=1
+["[4.0-7.0]"]
+Combinacion de padres num=4*** num clusters a buscar=2
+[]
+Combinacion de padres num=4*** num clusters a buscar=3
+[]
+Combinacion de padres num=5*** num clusters a buscar=1
+["[6.0-9.0]"]
+Combinacion de padres num=5*** num clusters a buscar=2
+["[6.0-7.0]", "[8.0-9.0]"]
+Combinacion de padres num=5*** num clusters a buscar=3
+["[6.0-7.0]", "[7.0-8.0]", "[8.0-9.0]"]
+
+
+----ordenar clusters
+Intervalos a juntar
+["[4.0-9.0]"] ["[6.0-9.0]"]
+ordenados
+["[4.0-9.0]", "[6.0-9.0]"]
+Finales
+["[4.0-7.0]", "[8.0-9.0]"]
+Intervalos a juntar
+["[4.0-9.0]"] ["[6.0-7.0]", "[8.0-9.0]"]
+ordenados
+["[4.0-9.0]", "[6.0-7.0]", "[8.0-9.0]"]
+Finales
+["[4.0-7.0]", "[8.0-7.0]", "[8.0-9.0]"]
+Intervalos a juntar
+["[4.0-9.0]"] ["[6.0-7.0]", "[7.0-8.0]", "[8.0-9.0]"]
+ordenados
+["[4.0-9.0]", "[6.0-7.0]", "[7.0-8.0]", "[8.0-9.0]"]
+Finales
+["[4.0-7.0]", "[8.0-6.0]"]
+Intervalos a juntar
+["[3.0-6.0]", "[7.0-10.0]"] ["[6.0-9.0]"]
+ordenados
+["[3.0-6.0]", "[6.0-9.0]", "[7.0-10.0]"]
+Finales
+["[3.0-5.0]", "[6.0-7.0]", "[8.0-10.0]"]
+Intervalos a juntar
+["[3.0-6.0]", "[7.0-10.0]"] ["[6.0-7.0]", "[8.0-9.0]"]
+ordenados
+["[3.0-6.0]", "[6.0-7.0]", "[7.0-10.0]", "[8.0-9.0]"]
+Finales
+["[3.0-5.0]", "[6.0-8.0]", "[9.0-10.0]"]
+Intervalos a juntar
+["[3.0-6.0]", "[7.0-10.0]"] ["[6.0-7.0]", "[7.0-8.0]", "[8.0-9.0]"]
+ordenados
+["[3.0-6.0]", "[6.0-7.0]", "[7.0-10.0]", "[7.0-8.0]", "[8.0-9.0]"]
+Finales
+[]
+Intervalos a juntar
+["[3.0-5.0]", "[6.0-7.0]", "[8.0-10.0]"] ["[6.0-9.0]"]
+ordenados
+["[3.0-5.0]", "[6.0-8.0]", "[8.0-10.0]"]
+Finales
+["[3.0-5.0]", "[6.0-7.0]", "[8.0-10.0]"]
+Intervalos a juntar
+["[3.0-5.0]", "[6.0-7.0]", "[8.0-10.0]"] ["[6.0-7.0]", "[8.0-9.0]"]
+ordenados
+["[3.0-5.0]", "[6.0-7.0]", "[8.0-10.0]", "[8.0-9.0]"]
+Finales
+["[3.0-5.0]", "[6.0-7.0]"]
+Intervalos a juntar
+["[3.0-5.0]", "[6.0-7.0]", "[8.0-10.0]"] ["[6.0-7.0]", "[7.0-8.0]", "[8.0-9.0]"]
+ordenados
+["[3.0-5.0]", "[6.0-7.0]", "[7.0-8.0]", "[8.0-10.0]", "[8.0-9.0]"]
+Finales
+[]

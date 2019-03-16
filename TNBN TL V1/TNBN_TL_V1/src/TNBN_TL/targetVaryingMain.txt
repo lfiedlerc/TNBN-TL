@@ -1,0 +1,248 @@
+package TNBN_TL;
+
+import LIPS.Kmeans;
+import TNBN_TL.Knowledge.*;
+import elvira.Bnet;
+import elvira.database.DataBaseCases;
+import elvira.parser.ParseException;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+public class TNBN_TL{
+	static String [] varNames; /* Names of the fieldnames of the knowledgse set and the random variables in the model */
+	static String [] varTypes; /* An array holding the type of each field or random variable */
+	static ArrayList<Object []> varValues;  /* An arraylist containing the value array for each random variable of field that is not of type Temporal*/
+	static int [] continuous; /* Holds the indexes of the columns with continuous data in the dataset */
+	static ArrayList<ArrayList<Temporal[]>> auxTemporalValues; /* An arraylist of arraylists that contains the values each aux domain has for the temporal fields */
+	
+	public static void main(String [] args){
+		int numVariables = 5; /* The number of variables in the models */
+		int numAuxDomains = 3; /* The number of auxiliary domains */
+		String targetDataSet; /* Filename for the target dataset */
+		String [] auxDataSets = new String[numAuxDomains]; /* Filenames for the auxiliary datasets */
+		ArrayList<boolean[][]> auxStructures = new ArrayList<boolean[][]>(); /* An arraylist with the auxiliary structures */
+		TNBN targetModel; /* The learned target model */
+		TNBN [] auxModels = new TNBN[numAuxDomains]; /* The auxiliary models which will aid the learning */
+		KnowledgeSet auxKnowledge; /* Contains auxiliary information loaded from the auxiliary dataset */
+		double targetWeight; /* The weight assigned to the target data sets for parmateric learning */
+		ArrayList<Field> fields; /* The fields the KnowledgeSet contains */ 
+		ArrayList<RandomVariable> auxNodes; /* List of nodes the aux models have */
+		
+		/* Variables used for interval transfer */
+		int [] numIntervals; /* The number of intervals to be obtained by kmeans*/
+		
+		/* Variables used for structure transfer */
+		double threshold; /* The threshold to use for Independence tests in structure learning*/
+		
+		/* Initialize required variables */
+		varNames = new String[numVariables];
+		varTypes = new String[numVariables];
+		varValues = new ArrayList<Object[]>();
+		auxTemporalValues = new ArrayList<ArrayList<Temporal[]>>(); 
+		
+		varNames[0] = "Colision";
+		varNames[1] = "Herida Cabeza";
+		varNames[2] = "Heridas Internas";
+		varNames[3] = "Pupilas Dilatadas";
+		varNames[4] = "Signos Vitales";
+		
+		varTypes[0] = "String";
+		varTypes[1] = "Boolean";
+		varTypes[2] = "String";
+		varTypes[3] = "Temporal";
+		varTypes[4] = "Temporal";
+			
+		varValues.add(new String[]{"Severo", "Moderado", "Leve"});
+		varValues.add(new Boolean[]{true,false});
+		varValues.add(new String[]{"Graves", "Ligeras", "Falso"});
+                
+                /* Experiment environment */
+                int auxPct = 5;
+                int [] auxCases = {350,600,470};
+                
+		String [] targetPartition = {"targetVarying Baseline Experiments/44 records/target partitions/partition0.txt",
+                                             "targetVarying Baseline Experiments/44 records/target partitions/partition1.txt",
+                                             "targetVarying Baseline Experiments/44 records/target partitions/partition2.txt",
+                                             "targetVarying Baseline Experiments/44 records/target partitions/partition3.txt",
+                                             "targetVarying Baseline Experiments/44 records/target partitions/partition4.txt"};
+                
+                String db;
+                for(int i = 0; i < numAuxDomains; ++i){
+                    try {
+                        db = "targetVarying Baseline Experiments/44 records/aux" + auxPct * 100 + "pct/aux" + i + ".dbc";
+                        DataBaseCases cases = new DataBaseCases(new FileInputStream(db));
+                        auxDataSets[i] = "targetVarying Baseline Experiments/44 records/aux" + auxPct * 100 + "pct/aux" + i + ".txt";
+                        ProcessFile.getDBCrecords(db, "targetVarying Baseline Experiments/44 records/aux" + auxPct * 100 + "pct/aux" + i + "Cases.txt");
+                        ProcessFile.transformDBCrecords("targetVarying Baseline Experiments/44 records/aux" + auxPct * 100 + "pct/aux" + i + "Cases.txt",  auxDataSets[i], auxPct * auxCases[i], " ", cases.getVariables());       
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    } 
+                }
+		
+		/* Initialize aux data */
+                
+			ArrayList<Temporal[]> auxTempVars1 = new ArrayList<Temporal[]>();
+			auxTempVars1.add(new Temporal[]{new Temporal("[0-15]",1),new Temporal("[15-30]",1),new Temporal("[30-60]",2),new Temporal()}); /* For pupilas dilatadas */
+			auxTempVars1.add(new Temporal[]{new Temporal("[0-10]",1),new Temporal("[10-45]",2),new Temporal()}); /* For signos vitales */
+			
+			ArrayList<Temporal[]> auxTempVars2 = new ArrayList<Temporal[]>();
+			auxTempVars2.add(new Temporal[]{new Temporal("[0-15]",1),new Temporal("[15-30]",1),new Temporal("[30-60]",2),new Temporal()}); /* For pupilas dilatadas */
+			auxTempVars2.add(new Temporal[]{new Temporal("[0-10]",1),new Temporal("[10-45]",2),new Temporal()}); /* For signos vitales */
+			
+			ArrayList<Temporal[]> auxTempVars3 = new ArrayList<Temporal[]>();
+			auxTempVars3.add(new Temporal[]{new Temporal("[0-15]",1),new Temporal("[15-30]",1),new Temporal("[30-60]",2),new Temporal()}); /* For pupilas dilatadas */
+			auxTempVars3.add(new Temporal[]{new Temporal("[0-10]",1),new Temporal("[10-45]",2),new Temporal()}); /* For signos vitales */
+			
+			
+			auxTemporalValues.add(auxTempVars1);
+			auxTemporalValues.add(auxTempVars2);
+			auxTemporalValues.add(auxTempVars3);
+			
+			boolean [][] auxStruct1 = { {false,true,true,false,false},
+										{false,false,false,true,false},
+										{false,false,false,false,true},
+										{false,false,false,false,false},
+										{false,false,false,false,false}
+										};
+			boolean [][] auxStruct2 = { {false,true,true,false,false},
+										{false,false,false,true,true},
+										{false,false,false,true,true},
+										{false,false,false,false,false},
+										{false,false,false,false,false}
+										};
+			boolean [][] auxStruct3 = { {false,false,true,false,false},
+										{false,false,false,true,false},
+										{false,false,false,true,true},
+										{false,false,false,false,false},
+										{false,false,false,false,false}
+										};
+			
+			auxStructures.add(auxStruct1);
+			auxStructures.add(auxStruct2);
+			auxStructures.add(auxStruct3);
+			
+			int index;
+			int index2;
+			boolean [][] auxStructure;
+			int totalAuxRecords = 0;
+			ArrayList<RandomVariable> parents;
+			Integer [] incoming;
+			for(int j = 0; j < auxModels.length; ++j){
+				fields = new ArrayList<Field>();
+				auxNodes = new ArrayList<RandomVariable>();
+				index = 0;
+				index2 = 0;
+				for(int i = 0; i < varNames.length; ++i){
+					if(varTypes[i].equals("String")){
+						fields.add(new StringField(varNames[i],new ArrayList<String>(Arrays.asList((String[])varValues.get(index)))));
+						auxNodes.add(new RandomVariable(varNames[i],(String[])varValues.get(index)));
+						index++;
+					} else if(varTypes[i].equals("Boolean")){
+						fields.add(new BooleanField(varNames[i],new ArrayList<Boolean>(Arrays.asList(new Boolean[]{true,false}))));
+						auxNodes.add(new RandomVariable(varNames[i],new Boolean[]{true,false}));
+						index++;
+					} else if(varTypes[i].equals("Integer")){
+						fields.add(new IntegerField(varNames[i],new ArrayList<Integer>(Arrays.asList((Integer[])varValues.get(index)))));
+						auxNodes.add(new RandomVariable(varNames[i],(Integer[])varValues.get(index)));
+						index++;
+					} else if(varTypes[i].equals("Double")){
+						fields.add(new DoubleField(varNames[i],new ArrayList<Double>(Arrays.asList((Double[])varValues.get(index)))));
+						auxNodes.add(new RandomVariable(varNames[i],(Double[])varValues.get(index)));
+						index++;
+					} else if(varTypes[i].equals("Temporal")){
+						fields.add(new TemporalField(varNames[i],new ArrayList<Temporal>(Arrays.asList(auxTemporalValues.get(j).get(index2)))));
+						auxNodes.add(new TemporalVariable(varNames[i],auxTemporalValues.get(j).get(index2)));
+						index2++;
+					}
+				}
+				auxStructure = auxStructures.get(j);				
+				for(int i = 0; i < numVariables; ++i){
+					parents = new ArrayList<RandomVariable>();
+					incoming = Graph.directedIncomingEdges(i, auxStructure);
+					for(int l = 0; l < incoming.length; ++l)
+						parents.add(auxNodes.get(incoming[l]));
+					
+					auxNodes.get(i).setParents(parents);
+				}
+				
+				auxKnowledge = new KnowledgeSet(fields);
+				auxKnowledge.loadKnowledge(auxDataSets[j]);
+				totalAuxRecords += auxKnowledge.size();
+				auxModels[j] = new TNBN(auxKnowledge,auxStructure,auxNodes);
+				
+				auxModels[j].calculateProbabilityTables(true);
+				auxModels[j].calculateCPTsGivenParents(true);
+			}
+			
+			/* Initialize variables for parameter transfer */
+			targetWeight = 0.4;
+			
+			int size;
+			for(int j = 0; j < auxModels.length; ++j){
+				size = auxModels[j].getKnowledgeSet().size();
+				auxModels[j].setWeight((double)(size * (1 - targetWeight))/(double)totalAuxRecords);
+			}
+			
+			/* Initialize variables for interval transfer */
+			continuous = new int[]{3,4};
+			numIntervals = new int[]{3,2};
+			
+			/* Initialize variables for structural transfer */
+			threshold = 0.01;
+			
+		/* End initialize required variables */
+		
+                String elv;
+                String originalElv = "targetVarying Baseline Experiments/Collision.elv";
+                String testFileDBC;
+                String testFile;
+                Bnet learnedModel;
+                int numTestCases = 2156;
+                ArrayList<Temporal[]> intervals;
+                double avgBrierScore = 0.0;
+                double avgTimeDifference = 0.0;
+                double avgMseParameters = 0.0;
+                double avgEditDistance = 0;
+                for(int partition = 0; partition < targetPartition.length; ++partition){
+                    targetDataSet = targetPartition[partition];
+                    targetModel = baselineNetwork(targetDataSet, auxModels, numIntervals, threshold, targetWeight);
+                    intervals = new ArrayList<Temporal[]>();
+                    for(int j = 0; j < continuous.length; ++j)
+                        intervals.add((Temporal[])targetModel.getNodes().get(continuous[j]).getValues());
+                    
+                    elv = "targetVarying Baseline Experiments/44 records/aux" + auxPct * 100 + "pct/partition" + partition + "_model.elv";
+                    testFileDBC = "partition" + partition + "_Compliment";
+                    testFile = "targetVarying Baseline Experiments/44 records/target partitions/partition" + partition + "_Compliment.txt";
+                    targetModel.makeElviraNet(elv);
+                    
+                    try{
+                        learnedModel = new Bnet(new FileInputStream(elv));
+                        ProcessFile.numberToInterval(testFile,"targetVarying Baseline Experiments/44 records/aux" + auxPct * 100 + "pct/targetPartition" + partition + "_intervals.txt",continuous, numTestCases, " ", intervals);
+                        ProcessFile.fileToDBC("targetVarying Baseline Experiments/44 records/aux" + auxPct * 100 + "pct/targetPartition" + partition + "_intervals.txt",
+                                               "targetVarying Baseline Experiments/44 records/aux" + auxPct * 100 + "pct/", testFileDBC, " ", learnedModel.getNodeList());
+
+                        avgBrierScore += (1 - EvaluateNetwork.brierScore(elv,"targetVarying Baseline Experiments/44 records/aux" + auxPct * 100 + "pct/" + testFileDBC + ".dbc", numTestCases, continuous));
+                        avgTimeDifference += EvaluateNetwork.evaluateIntervals(elv, testFile, "targetVarying Baseline Experiments/44 records/aux" + auxPct * 100 + "pct/" + testFileDBC + ".dbc", numTestCases, continuous);
+                        avgMseParameters += EvaluateNetwork.mseParameters(originalElv, elv);
+                        avgEditDistance += EvaluateNetwork.editDistance(originalElv, elv);
+                    }catch(Exception e){
+                         e.printStackTrace();
+                    }
+                }
+                
+                avgBrierScore /= targetPartition.length;
+                avgTimeDifference /= targetPartition.length;
+                avgMseParameters /= targetPartition.length;
+                avgEditDistance /= targetPartition.length;
+                
+                System.out.println("Relative Brier Score: " + avgBrierScore * 100);
+                System.out.println("Time Difference: " + avgTimeDifference);
+                System.out.println("Parameters MSE: " + avgMseParameters);
+                System.out.println("Edit Distance: " + avgEditDistance);
+	}
+}

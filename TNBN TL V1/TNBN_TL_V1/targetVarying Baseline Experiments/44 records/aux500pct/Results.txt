@@ -1,0 +1,5 @@
+Relative Brier Score: 70.49900622614123
+Time Difference: 8.271521335807048
+Time DifferenceNormalized: 0.15211068545566173
+Parameters MSE: 4.188257941930399E-5
+Edit Distance: 1.0

@@ -1,0 +1,132 @@
+// Data Base. Elvira Format
+
+data-base redAccidente {
+number-of-cases = 70;
+
+
+// Network Variables 
+
+node Colision(finite-states) {
+kind-of-node = chance;
+type-of-variable = finite-states;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Leve" "Moderado" "Severo");
+}
+
+node Herida_Cabeza(finite-states) {
+kind-of-node = chance;
+type-of-variable = finite-states;
+relevance = 7.0;
+purpose = "";
+num-states = 2;
+states = ("false" "true");
+}
+
+node Heridas_Internas(finite-states) {
+kind-of-node = chance;
+type-of-variable = finite-states;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Falso" "Ligeras" "Graves");
+}
+
+node Pupilas_Dilatadas(finite-states) {
+kind-of-node = chance;
+type-of-variable = finite-states;
+relevance = 7.0;
+purpose = "";
+num-states = 5;
+states = ("[4.0-10.0]" "[10.0-16.0]" "[16.0-23.0]" "[23.0-29.0]" "Default");
+}
+
+node Signos_Vitales(finite-states) {
+kind-of-node = chance;
+type-of-variable = finite-states;
+relevance = 7.0;
+purpose = "";
+num-states = 5;
+states = ("[4.0-7.0]" "[7.0-9.0]" "[9.0-12.0]" "[12.0-15.0]" "Default");
+}
+
+relation  {
+
+memory = true;
+
+cases = (
+[1,0,0,0,0]
+[1,0,2,0,0]
+[1,1,2,3,0]
+[0,1,2,0,3]
+[2,0,2,0,0]
+[2,1,1,0,1]
+[1,0,2,0,2]
+[0,0,2,0,0]
+[0,1,1,0,0]
+[2,0,0,0,4]
+[2,0,0,0,0]
+[2,0,2,0,0]
+[1,1,2,3,0]
+[0,1,2,0,3]
+[2,0,2,0,0]
+[2,1,1,0,1]
+[1,0,2,0,2]
+[0,0,2,0,0]
+[0,1,1,0,0]
+[1,0,0,0,4]
+[0,1,0,4,0]
+[1,0,2,4,0]
+[1,1,2,3,0]
+[1,0,2,4,3]
+[2,1,2,0,0]
+[2,1,1,0,1]
+[1,0,2,4,2]
+[1,0,2,0,0]
+[2,1,1,0,0]
+[0,0,0,0,4]
+[0,0,0,0,0]
+[0,0,2,0,0]
+[1,1,2,3,0]
+[1,0,2,4,3]
+[2,1,2,0,0]
+[2,1,1,0,1]
+[1,0,2,4,2]
+[1,0,2,0,0]
+[2,1,1,0,0]
+[1,0,0,0,4]
+[1,0,0,0,0]
+[1,0,2,0,0]
+[1,1,2,3,0]
+[1,0,2,0,3]
+[2,0,2,0,0]
+[2,1,1,0,1]
+[1,0,2,0,2]
+[0,0,2,0,0]
+[0,1,1,0,0]
+[1,0,0,0,4]
+[1,0,0,4,0]
+[1,0,2,4,0]
+[1,1,2,3,0]
+[1,0,2,4,3]
+[2,1,2,0,0]
+[2,1,1,0,1]
+[1,0,2,4,2]
+[1,0,2,0,0]
+[2,1,1,0,0]
+[1,0,0,0,4]
+[1,0,0,4,0]
+[1,0,2,4,0]
+[1,1,2,3,0]
+[1,0,2,4,3]
+[2,1,2,0,0]
+[2,1,1,0,1]
+[1,0,2,4,2]
+[1,0,2,0,0]
+[2,1,1,0,0]
+[1,0,0,0,4]
+);
+
+}
+}

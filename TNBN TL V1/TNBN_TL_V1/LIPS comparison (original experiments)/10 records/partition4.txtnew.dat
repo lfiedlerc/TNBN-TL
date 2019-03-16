@@ -1,0 +1,10 @@
+Moderado false Falso Default "[4.0-7.0]" 
+Moderado false Graves Default "[4.0-7.0]" 
+Moderado true Graves "[21.0-29.0]" "[4.0-7.0]" 
+Moderado false Graves Default "[11.0-15.0]" 
+Severo true Graves "[6.0-14.0]" "[4.0-7.0]" 
+Severo true Ligeras "[6.0-14.0]" "[7.0-11.0]" 
+Moderado false Graves Default "[7.0-11.0]" 
+Moderado false Graves "[6.0-14.0]" "[4.0-7.0]" 
+Severo true Ligeras "[6.0-14.0]" "[4.0-7.0]" 
+Moderado false Falso "[6.0-14.0]" Default 

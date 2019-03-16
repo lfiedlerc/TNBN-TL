@@ -1,0 +1,10 @@
+Severo true Ligeras [0-15] [0-10]
+Moderado false Falso Default Default
+Leve false Ligeras [15-30] [0-10]
+Leve false Falso [30-60] Default
+Severo true Ligeras [30-60] [0-10]
+Leve false Graves [0-15] [0-10]
+Severo true Graves [0-15] [0-10]
+Moderado true Graves [0-15] [0-10]
+Moderado false Graves [15-30] [0-10]
+Leve false Ligeras Default Default

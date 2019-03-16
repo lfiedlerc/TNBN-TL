@@ -1,0 +1,23 @@
+body {
+	background-color: #ddd;
+}
+
+#instructions {
+	background-color: #eee;
+	border: 2px solid #ccc;
+	padding: 1em;
+	margin-bottom: 1em;
+	color: black;
+}
+
+#instructions #label {
+	font-weight: bold;
+}
+
+#dont-click-btn {
+	background-color: red;
+	position: absolute;
+	top: 25px;
+	right: 25px;
+	font-size: 150%;
+}

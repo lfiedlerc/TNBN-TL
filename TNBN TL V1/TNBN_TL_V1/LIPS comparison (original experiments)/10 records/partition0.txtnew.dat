@@ -1,0 +1,10 @@
+Severo true Ligeras "[1.0-17.0]" "[0.0-14.0]" 
+Moderado false Ligeras "[1.0-17.0]" Default 
+Severo true Ligeras "[17.0-32.0]" "[0.0-14.0]" 
+Leve false Ligeras Default Default 
+Leve false Ligeras "[32.0-47.0]" "[0.0-14.0]" 
+Moderado true Graves "[1.0-17.0]" "[28.0-42.0]" 
+Leve false Ligeras Default Default 
+Leve false Ligeras Default Default 
+Leve false Ligeras Default Default 
+Moderado false Falso Default "[0.0-14.0]" 

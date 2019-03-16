@@ -1,0 +1,9 @@
+._unsupervised
+._supervised
+._CVS
+._AuxiliarPotentialTable.java
+._ClassifierValidator.java
+._Classifier.java
+._ConfusionMatrix.java
+._SizeComparableClassifier.java
+._ClassifierException.java

@@ -1,0 +1,9 @@
+Relative Brier Score: 74.08273318961967
+Leave Prediction: 70.2568066209736
+Time Difference: 0.07044047152107122
+Temporal Prediction Error: 0.32356587895507805
+Brier Temporal Prediction Error: 0.43509680259230316
+Edit Distance: 1.0
+Interval edit distance for Pupilas Dilatadas: 36.2
+Interval edit distance for Signos Vitales: 50.8
+Total interval edit distance: 87.0

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<band>
+	<musician founder="true" name="John">
+		<instrument>guitar</instrument>
+	</musician>
+	<musician founder="true" name="Paul">
+		<instrument>bass</instrument>
+		<instrument>guitar</instrument>
+	</musician>
+	<musician name="George" founder="true">
+		<instrument>guitar</instrument>
+	</musician>
+	<musician founder="false" name="Ringo">
+		<instrument>drums</instrument>
+	</musician>
+</band>

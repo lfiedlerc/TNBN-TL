@@ -1,0 +1,126 @@
+// Bayesian Network
+//   Elvira format 
+
+bnet  "targetVarying Baseline Experiments/440 records/aux500pct/partition0_model.elv" { 
+
+// Network Properties
+
+kindofgraph = "directed";
+visualprecision = "0.00";
+version = 1.0;
+default node states = (present , absent);
+
+// Variables 
+
+node Colision(finite-states) {
+title = "Colision";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Leve" "Moderado" "Severo");
+}
+
+node Herida_Cabeza(finite-states) {
+title = "Herida Cabeza";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 2;
+states = ("false" "true");
+}
+
+node Heridas_Internas(finite-states) {
+title = "Heridas Internas";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Falso" "Ligeras" "Graves");
+}
+
+node Pupilas_Dilatadas(finite-states) {
+title = "Pupilas Dilatadas";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 4;
+states = ("Default" "[33-75]" "[12-33]" "[0-12]");
+}
+
+node Signos_Vitales(finite-states) {
+title = "Signos Vitales";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Default" "[15-56]" "[0-15]");
+}
+
+// Links of the associated graph:
+
+link Colision Herida_Cabeza;
+
+link Colision Heridas_Internas;
+
+link Colision Signos_Vitales;
+
+link Herida_Cabeza Pupilas_Dilatadas;
+
+link Signos_Vitales Herida_Cabeza;
+
+link Signos_Vitales Heridas_Internas;
+
+//Network Relationships: 
+
+relation Colision { 
+comment = "";
+kind-of-relation = potential;
+deterministic=false;
+values= table (0.24414328483574935 0.3914169318174294 0.36443978334682126 );
+}
+
+relation Herida_Cabeza Colision Signos_Vitales { 
+comment = "";
+kind-of-relation = potential;
+deterministic=false;
+values= table (0.9463760680531149 0.7714218482834294 0.7732501313067914 0.7183482671838869 0.6336759096644293 0.5859163276673568 0.2794681686540396 0.11131501507754268 0.08297616062386391 0.05362393194688506 0.22857815171657056 0.22674986869320846 0.281651732816113 0.36632409033557073 0.4140836723326432 0.7205318313459604 0.8886849849224573 0.9170238393761361 );
+}
+
+relation Heridas_Internas Colision Signos_Vitales { 
+comment = "";
+kind-of-relation = potential;
+deterministic=false;
+values= table (0.39234947090179084 0.3117716217846158 0.2987846087976029 0.3182183817791315 0.19126553167357202 0.14472992097424878 0.1867078244435173 0.13163536067540135 0.0925549009052864 0.5679704381182653 0.5958998121150552 0.647847864063107 0.2256653857088361 0.1420622892978579 0.10558146428980121 0.4404664846882107 0.40954861029207545 0.35590876354878037 0.03968009097994382 0.09232856610032905 0.05336752713929009 0.4561162325120324 0.6666721790285701 0.74968861473595 0.37282569086827205 0.4588160290325233 0.5515363355459332 );
+}
+
+relation Pupilas_Dilatadas Herida_Cabeza { 
+comment = "";
+kind-of-relation = potential;
+deterministic=false;
+values= table (0.6547993233987297 0.1172801001613148 0.11354379251720448 0.09413261228534608 0.11236470069420454 0.21446194757546078 0.11929218338986136 0.5741253399778783 );
+}
+
+relation Signos_Vitales Colision { 
+comment = "";
+kind-of-relation = potential;
+deterministic=false;
+values= table (0.5324981779644409 0.3450891361354188 0.2956903422473726 0.14633782042274182 0.1663368814996866 0.1483857919292252 0.3211640016128174 0.48857398236489474 0.5559238658234021 );
+}
+
+}

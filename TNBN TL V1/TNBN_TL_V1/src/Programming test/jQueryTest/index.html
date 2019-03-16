@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Knexus Research Coding Tests: jQuery Reading/Documentation
+
+@author Phil Moore - philip.moore@knexusresearch.com
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <title>jQuery Test</title>
+        <link rel="stylesheet" type="text/css" href="styles/base.css" />
+        <script src="lib/jquery-1.7.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+			var numWarnings = 0; /* Global variable that holds the number of times the mouseover event has occurred for the button with the id 'dont-click-btn'. */
+			
+			/* This function repositions and sets the text value for the calling element depending on the number of times the function has been called.
+			   Its body executes as long the function has been called less than 4 times. 
+			*/
+			var functionA = function() {
+				if (numWarnings < 3) {
+					$(this).hide(); /* Hide the calling element */
+					$(this).css("top", 100 * (numWarnings + 1)); /* Depending on the value of 'numWarnings' set the top edge of the calling element 100 to 300 pixels below the top edge of its parent element. */
+					/* Set the value of 'newText' depending on the value of 'numWarnings' */
+					switch (numWarnings) {
+						case 0:
+							var newText = "I don't think you should do that.";
+							break;
+						case 1:
+							var newText = "Seriously, just don't.";
+							break;
+						default:
+							var newText = "Okay, this is your last warning.";
+					}
+					$(this).text(newText); /* Set the text of the calling element to the value of 'newText'. */
+					$(this).show(200); /* The calling element reappers with an animation that lasts 200 milliseconds. */
+					numWarnings++; /* Increment the global var to reflect the number of times the function has been called */
+				}
+			}; //fnend
+
+			/* This function removes all text and elements from the html's body, and then inserts a message to be displayed */
+			var functionB = function() {
+				$("body").empty(); /* Remove all elements from the page. */
+				$("body").append("I told you so."); /* Write the message to page. */
+			}; //fnend
+
+			/* This function displays an alert box where the message is the text associated with the checked input element and the state of the checkbox. */
+			var functionC = function() {
+				var pick = $("input[name=vgchar]:checked").parent().text(); /* Get the text belonging to the parent of the checked input element whose name attribute equals 'vgchar'. */
+				alert("You picked: " + pick + "\nThe checkbox value is " + $("#chk-box").is(":checked")); /* Display an alert box with the text associated with the checked input element and the state of the checkbox.  */
+			}; //fnend
+
+			/* This function gets the parent element of the calling element, and sets its font-weight property to 'bold'. */
+			var functionD = function() {
+				$(this).parent().css("font-weight", "bold");
+			}; //fnend
+
+			/* This function gets the parent element of the calling element, and sets its font-weight property to 'inherit'. */
+			var functionE = function() {
+				$(this).parent().css("font-weight", "inherit");
+			}; //fnend
+
+			/* This function executes as soon as the DOM has loaded. It handles the following 4 events:  
+			   - A mouseover event for the button with id='dont-click-btn'
+			   - A click event for the button with id='dont-click-btn'
+			   - A click event for the button with id='submit-btn'
+			   - A hover event for input elements that are descendants to a div element with class='response'
+			*/
+			$(document).ready(function() {
+				
+				$("#dont-click-btn").mouseover(functionA); /* Execute functionA when a mouseover event takes place for the element with id='dont-click-btn'. */ 
+				
+				$("#dont-click-btn").click(functionB); /* Execute functionB when the element with id='dont-click-btn' is clicked */ 
+				
+				$("#submit-btn").click(functionC); /* Execute functionC when the element with id='submit-btn' is clicked */
+
+				/* For an input element that is a descendant to a div with class='response' execute functionD when a mouseenter event takes place and functionE when a mouseleave event occurs. */
+				$("div.response input").hover(functionD, functionE);
+				
+			});
+		
+        </script>
+    </head>
+    <body>
+	
+        <div id="instructions">
+            <span id="label">Instructions:</span> Whatever you do, don't click the button over there.
+        </div>
+
+		<div class="response"><input type="radio" name="vgchar" /> Mario</div>
+		<div class="response"><input type="radio" name="vgchar" /> Link</div>
+		<div class="response"><input type="radio" name="vgchar" /> Samus</div>
+		<div class="response"><input type="radio" name="vgchar" /> GLaDOS</div>
+		<div class="response"><input type="radio" name="vgchar" /> Master Chief</div>
+		<div class="response"><input type="radio" name="vgchar" /> Uh, the EPA?  I can't remember.  Oops.</div>
+		
+		
+
+		<hr />
+		
+		<div id="addedBox">
+			<input type="checkbox" id="chk-box" />
+		</div>
+		<button id="submit-btn" type="button">Submit</button> 
+		<button id="dont-click-btn" type="button">Don't click this button</button>
+
+
+    </body>
+</html>

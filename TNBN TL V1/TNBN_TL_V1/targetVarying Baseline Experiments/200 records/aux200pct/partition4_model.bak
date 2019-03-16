@@ -1,0 +1,126 @@
+// Bayesian Network
+//   Elvira format 
+
+bnet  "targetVarying Baseline Experiments/200 records/aux200pct/partition4_model.elv" { 
+
+// Network Properties
+
+kindofgraph = "directed";
+visualprecision = "0.00";
+version = 1.0;
+default node states = (present , absent);
+
+// Variables 
+
+node Colision(finite-states) {
+title = "Colision";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Leve" "Moderado" "Severo");
+}
+
+node Herida_Cabeza(finite-states) {
+title = "Herida Cabeza";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 2;
+states = ("false" "true");
+}
+
+node Heridas_Internas(finite-states) {
+title = "Heridas Internas";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Falso" "Ligeras" "Graves");
+}
+
+node Pupilas_Dilatadas(finite-states) {
+title = "Pupilas Dilatadas";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 4;
+states = ("Default" "[33-79]" "[11-33]" "[0-11]");
+}
+
+node Signos_Vitales(finite-states) {
+title = "Signos Vitales";
+kind-of-node = chance;
+type-of-variable = finite-states;
+pos_x =397;
+pos_y =94;
+relevance = 7.0;
+purpose = "";
+num-states = 3;
+states = ("Default" "[20-72]" "[0-20]");
+}
+
+// Links of the associated graph:
+
+link Colision Herida_Cabeza;
+
+link Herida_Cabeza Pupilas_Dilatadas;
+
+link Herida_Cabeza Signos_Vitales;
+
+link Heridas_Internas Colision;
+
+link Heridas_Internas Signos_Vitales;
+
+link Pupilas_Dilatadas Signos_Vitales;
+
+//Network Relationships: 
+
+relation Colision Heridas_Internas { 
+comment = "";
+kind-of-relation = potential;
+deterministic=false;
+values= table (0.36363636363636365 0.39473684210526316 0.022471910112359553 0.4772727272727273 0.17105263157894737 0.5280898876404494 0.1590909090909091 0.4342105263157895 0.44943820224719105 );
+}
+
+relation Herida_Cabeza Colision { 
+comment = "";
+kind-of-relation = potential;
+deterministic=false;
+values= table (0.8571482877494011 0.5856525607274902 0.1338722871975747 0.14285171225059892 0.4143474392725098 0.8661277128024253 );
+}
+
+relation Heridas_Internas { 
+comment = "";
+kind-of-relation = potential;
+deterministic=false;
+values= table (0.2067520752316891 0.33986741351880023 0.4533805112495107 );
+}
+
+relation Pupilas_Dilatadas Herida_Cabeza { 
+comment = "";
+kind-of-relation = potential;
+deterministic=false;
+values= table (0.6692379261009461 0.1366879587701992 0.11339913883690603 0.09091409089830944 0.13439569093355708 0.2136873298108961 0.08296724412859083 0.5587106205205953 );
+}
+
+relation Signos_Vitales Herida_Cabeza Heridas_Internas Pupilas_Dilatadas { 
+comment = "";
+kind-of-relation = potential;
+deterministic=false;
+values= table (0.8255494024754588 0.7722160691421255 0.6655494024754588 0.6388827358087922 0.7439289000728335 0.7490571052010386 0.6601682163121497 0.6157237718677053 0.2996543949008738 0.3201672154136943 0.31064340588988476 0.35350054874702763 0.3930262084523862 0.45969287511905293 0.3263595417857196 0.382769798195976 0.24553388993986064 0.2122005566065273 0.20450824891421965 0.1429697873757581 0.1520190314885168 0.15916188863137393 0.14907785501792858 0.11344760291708822 0.09114319248826291 0.09780985915492958 0.1511431924882629 0.16447652582159628 0.07050475939723717 0.10640219529467307 0.08417997307245086 0.17306886196133972 0.15593526192117743 0.17644808243399793 0.16692427291018838 0.20978141576733125 0.23324345235467137 0.19991011902133804 0.2999101190213381 0.1614485805597996 0.2732726369289937 0.28993930359566034 0.17070853436489108 0.23224699590335263 0.22339864273677407 0.23768435702248836 0.21751628979559756 0.1919700713082026 0.08330740503627827 0.12997407170294498 0.1833074050362783 0.19664073836961163 0.18556634052992932 0.14454069950428827 0.2556518106153994 0.21120736617095492 0.5444103431779489 0.5033847021523078 0.5224323211999269 0.43671803548564114 0.3737303391929424 0.3403970058596091 0.3737303391929424 0.4557816212442245 0.4811934731311457 0.4978601397978124 0.6247832167208893 0.6247832167208893 0.6245823257747092 0.6031537543461377 0.6334058551864739 0.6945823257747092 );
+}
+
+}

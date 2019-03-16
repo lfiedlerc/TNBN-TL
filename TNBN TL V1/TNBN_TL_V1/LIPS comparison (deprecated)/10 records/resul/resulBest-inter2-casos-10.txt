@@ -1,0 +1,890 @@
+Num combinaciones1
+["[1.0-17.0]""[17.0-32.0]""[32.0-47.0]", "[0.0-14.0]""[14.0-28.0]""[28.0-42.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[0.0-22.0]""[23.0-45.0]", "[4.0-6.0]""[6.0-8.0]""[8.0-10.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[1.0-18.0]""[18.0-35.0]""[35.0-52.0]", "[3.0-7.0]""[7.0-12.0]""[12.0-16.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[4.0-16.0]""[16.0-28.0]""[28.0-41.0]", "[1.0-5.0]""[6.0-9.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-14.0]""[14.0-21.0]""[21.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-14.0]""[14.0-21.0]""[21.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-14.0]""[14.0-21.0]""[21.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-14.0]""[14.0-21.0]""[21.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-14.0]""[14.0-21.0]""[21.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-14.0]""[14.0-21.0]""[21.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-14.0]""[14.0-21.0]""[21.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-14.0]""[14.0-21.0]""[21.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-14.0]""[14.0-21.0]""[21.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-14.0]""[14.0-21.0]""[21.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-7.0]""[8.0-10.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[4.0-12.0]""[12.0-20.0]""[20.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[4.0-12.0]""[12.0-20.0]""[20.0-29.0]"]
+	Num combinaciones3
+	["[3.0-5.0]""[6.0-12.0]"]
+	["[3.0-4.0]""[5.0-8.0]""[9.0-15.0]"]
+	["[5.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[4.0-12.0]", "[12.0-20.0]", "[20.0-29.0]", "Default"]
+Signos_Vitales	["[3.0-5.0]", "[6.0-12.0]", "Default"]
+
+Añadidos,borrados:	1	3
+SimStruct=	0.4
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.07970924866278997	0.0	0.039854624331394986
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones3
+["[4.0-6.0]""[7.0-10.0]", "[4.0-7.0]""[8.0-9.0]"]
+["[4.0-6.0]""[7.0-10.0]", "[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+["[4.0-6.0]""[7.0-10.0]", "[4.0-8.0]""[9.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones3
+["[3.0-12.0]""[13.0-8.0]"]
+["[3.0-7.0]""[8.0-10.0]"]
+["[3.0-6.0]""[7.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-7.0]", "[8.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	1	1
+SimStruct=	0.8
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.10312186962742403	0.0	0.05156093481371202
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones3
+["[3.0-12.0]""[13.0-9.0]"]
+["[3.0-7.0]""[8.0-10.0]"]
+["[3.0-6.0]""[7.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-12.0]", "[13.0-9.0]", "Default"]
+Signos_Vitales	["[4.0-7.0]", "[8.0-9.0]", "Default"]
+
+Añadidos,borrados:	1	1
+SimStruct=	0.8
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.08180632624428462	0.0	0.04090316312214231
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[3.0-6.0]""[7.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	1
+SimStruct=	0.8
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.1204009885494031	0.0	0.06020049427470155
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[3.0-6.0]""[7.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	1
+SimStruct=	0.8
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.10385092848770859	0.0	0.051925464243854295
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[3.0-6.0]""[7.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	1
+SimStruct=	0.8
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.11438389967274228	0.0	0.05719194983637114
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[3.0-6.0]""[7.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-7.0]", "[8.0-9.0]", "Default"]
+
+Añadidos,borrados:	2	1
+SimStruct=	0.8
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.10345850753411841	0.0	0.051729253767059204
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.14783592024459333	0.0	0.07391796012229666
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.1471201045410532	0.0	0.0735600522705266
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.14480710232934474	0.0	0.07240355116467237
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13616998436572803	0.0	0.06808499218286401
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-5.0]", "[6.0-7.0]", "[8.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-7.0]", "[8.0-9.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.16554736601115935	0.0	0.08277368300557968
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-7.0]", "[8.0-9.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.1526839033708958	0.0	0.0763419516854479
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.14218751867819046	0.0	0.07109375933909523
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.15276749114626886	0.0	0.07638374557313443
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13512164356240286	0.0	0.06756082178120143
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13055793948341052	0.0	0.06527896974170526
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13795715596170308	0.0	0.06897857798085154
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.1403845391882768	0.0	0.0701922695941384
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.14312946914198868	0.0	0.07156473457099434
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.14369742305358857	0.0	0.07184871152679428
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13277504749679173	0.0	0.06638752374839586
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-5.0]", "[6.0-7.0]", "[8.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.1605519122061276	0.0	0.0802759561030638
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.14769406188742076	0.0	0.07384703094371038
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-7.0]", "[8.0-9.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.14642775215267273	0.0	0.07321387607633636
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13301203991458424	0.0	0.06650601995729212
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13800693781674692	0.0	0.06900346890837346
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones1
+["[6.0-14.0]""[14.0-21.0]""[21.0-29.0]", "[4.0-7.0]""[7.0-11.0]""[11.0-15.0]"]
+
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones2
+["[3.0-6.0]""[7.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-10.0]", "Default"]
+Signos_Vitales	["[4.0-7.0]", "[8.0-9.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.14196497818702544	0.0	0.07098248909351272
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones6
+["[4.0-7.0]""[8.0-9.0]"]
+["[4.0-6.0]""[7.0-6.0]"]
+["[3.0-6.0]""[7.0-8.0]""[9.0-10.0]"]
+["[3.0-6.0]""[7.0-8.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-9.0]""[10.0-9.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-8.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.1425115970417018	0.0	0.0712557985208509
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones6
+["[4.0-7.0]""[8.0-9.0]"]
+["[4.0-6.0]""[7.0-6.0]"]
+["[3.0-6.0]""[7.0-8.0]""[9.0-10.0]"]
+["[3.0-6.0]""[7.0-8.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-9.0]""[10.0-9.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[4.0-7.0]", "[8.0-9.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13983904786602191	0.0	0.06991952393301096
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones6
+["[4.0-7.0]""[8.0-9.0]"]
+["[4.0-6.0]""[7.0-6.0]"]
+["[3.0-6.0]""[7.0-8.0]""[9.0-10.0]"]
+["[3.0-6.0]""[7.0-8.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-9.0]""[10.0-9.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[4.0-6.0]", "[7.0-6.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13743564876596379	0.0	0.06871782438298189
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones6
+["[4.0-7.0]""[8.0-9.0]"]
+["[4.0-6.0]""[7.0-6.0]"]
+["[3.0-6.0]""[7.0-8.0]""[9.0-10.0]"]
+["[3.0-6.0]""[7.0-8.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-9.0]""[10.0-9.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-8.0]", "Default"]
+Signos_Vitales	["[4.0-7.0]", "[8.0-9.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.1351597959171694	0.0	0.0675798979585847
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones6
+["[4.0-7.0]""[8.0-9.0]"]
+["[4.0-6.0]""[7.0-6.0]"]
+["[3.0-6.0]""[7.0-8.0]""[9.0-10.0]"]
+["[3.0-6.0]""[7.0-8.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-9.0]""[10.0-9.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[3.0-6.0]", "[7.0-8.0]", "Default"]
+Signos_Vitales	["[4.0-6.0]", "[7.0-9.0]", "[10.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.1372364065732176	0.0	0.0686182032866088
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones6
+["[4.0-7.0]""[8.0-9.0]"]
+["[4.0-6.0]""[7.0-6.0]"]
+["[3.0-6.0]""[7.0-8.0]""[9.0-10.0]"]
+["[3.0-6.0]""[7.0-8.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-9.0]""[10.0-9.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[4.0-6.0]", "[7.0-6.0]", "Default"]
+Signos_Vitales	["[4.0-7.0]", "[8.0-9.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.13979655327327883	0.0	0.06989827663663942
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones6
+["[4.0-7.0]""[8.0-9.0]"]
+["[4.0-6.0]""[7.0-6.0]"]
+["[3.0-6.0]""[7.0-8.0]""[9.0-10.0]"]
+["[3.0-6.0]""[7.0-8.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-9.0]""[10.0-9.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-7.0]""[8.0-10.0]"]
+	Num combinaciones3
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-6.0]""[7.0-9.0]""[10.0-15.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[4.0-6.0]", "[7.0-6.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.1482709884383376	0.0	0.0741354942191688
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones6
+["[4.0-7.0]""[8.0-9.0]"]
+["[4.0-7.0]""[8.0-7.0]""[8.0-9.0]"]
+["[4.0-7.0]""[8.0-6.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+["[3.0-5.0]""[6.0-8.0]""[9.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]"]
+	Num combinaciones2
+	["[4.0-7.0]""[8.0-9.0]"]
+	["[4.0-8.0]""[9.0-15.0]"]
+
+Nodos:
+Colision	["Leve", "Moderado", "Severo"]
+Herida_Cabeza	["false", "true"]
+Heridas_Internas	["Falso", "Ligeras", "Graves"]
+Pupilas_Dilatadas	["[4.0-7.0]", "[8.0-7.0]", "[8.0-9.0]", "Default"]
+Signos_Vitales	["[4.0-8.0]", "[9.0-15.0]", "Default"]
+
+Añadidos,borrados:	2	2
+SimStruct=	0.6
+KL,KL2, kL2-KL:	0.0	0.0	0.0
+BS,ET,Combinada:	0.14901835701103172	0.0	0.07450917850551586
+:::::::::$$$$$$$OTRA VUELTA$$$$$$$$$:::
+
+Num combinaciones6
+Num combinaciones6
+["[4.0-7.0]""[8.0-9.0]"]
+["[4.0-7.0]""[8.0-9.0]"]
+["[4.0-7.0]""[8.0-7.0]""[8.0-9.0]"]
+["[4.0-7.0]""[8.0-7.0]""[8.0-9.0]"]
+["[4.0-7.0]""[8.0-6.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+["[4.0-7.0]""[8.0-6.0]"]
+["[3.0-5.0]""[6.0-8.0]""[9.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]"]
+["[3.0-5.0]""[6.0-7.0]""[8.0-10.0]"]
+["[3.0-5.0]""[6.0-8.0]""[9.0-10.0]"]
+["[3.0-5.0]""[6.0-7.0]"]

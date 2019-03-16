@@ -1,0 +1,18 @@
+@relation 'Experiments with interval refinement/Different temporal range/10 target records/100pct aux/input files/TargetData.arff'
+@attribute 'Colision' {'Severo','Moderado','Leve'}
+@attribute 'Herida Cabeza' {'true','false'}
+@attribute 'Heridas Internas' {'Graves','Ligeras','Falso'}
+@attribute 'Pupilas Dilatadas' NUMERIC
+@attribute 'Signos Vitales' NUMERIC
+
+@data
+Moderado,true,Graves,11.433335719421446,6.954482533542338
+Moderado,true,Graves,3.9956466887172413,5.989528686878957
+Leve,false,Ligeras,-1,-1
+Severo,true,Graves,1.5072630312179918,40.44055792198239
+Moderado,true,Graves,4.03899085188074,-1
+Moderado,false,Graves,-1,4.798318610466952
+Moderado,false,Graves,-1,2.465922829737981
+Severo,true,Ligeras,11.82100788100792,0.8063649898440293
+Leve,false,Ligeras,-1,-1
+Leve,false,Falso,23.48063079944989,-1

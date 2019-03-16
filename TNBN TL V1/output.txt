@@ -1,0 +1,633 @@
+Initial Interval: [0.0-15.0]
+Initial Interval: [15.0-37.0]
+Initial Interval: [37.0-88.0]
+New Interval: [0.0-15.0]
+New Interval: [15.0-42.0]
+New Interval: [42.0-127.0]
+Initial Interval: [0.0-23.0]
+Initial Interval: [23.0-77.0]
+New Interval: [0.0-35.0]
+New Interval: [35.0-112.0]
+Herida Cabeza
+Heridas Internas
+0.007359236749752716
+Herida Cabeza
+Heridas Internas
+0.002804798669889894
+Pupilas Dilatadas
+Heridas Internas
+0.01243192097191563
+Pupilas Dilatadas
+Heridas Internas
+0.00707726686168101
+Herida Cabeza
+Signos Vitales
+0.0048907966654746626
+Herida Cabeza
+Signos Vitales
+0.0020459455474930504
+Pupilas Dilatadas
+Signos Vitales
+0.03702440509886733
+Pupilas Dilatadas
+Signos Vitales
+0.006166467103399111
+Heridas Internas
+Signos Vitales
+0.009712681583082729
+Heridas Internas
+Signos Vitales
+0.07583708108498603
+Herida Cabeza
+Pupilas Dilatadas
+0.00807523954641089
+Herida Cabeza
+Pupilas Dilatadas
+0.02548494233149074
+Herida Cabeza
+Heridas Internas
+0.007359236749752716
+Herida Cabeza
+Heridas Internas
+0.0030537319950910357
+Pupilas Dilatadas
+Heridas Internas
+0.01243192097191563
+Pupilas Dilatadas
+Heridas Internas
+0.030768255984729022
+Herida Cabeza
+Signos Vitales
+0.0048907966654746626
+Herida Cabeza
+Signos Vitales
+0.0201643281833629
+Pupilas Dilatadas
+Signos Vitales
+0.03702440509886733
+Pupilas Dilatadas
+Signos Vitales
+0.014241462497784284
+Heridas Internas
+Signos Vitales
+0.009712681583082729
+Heridas Internas
+Signos Vitales
+0.032480530760542546
+Herida Cabeza
+Pupilas Dilatadas
+0.00807523954641089
+Herida Cabeza
+Pupilas Dilatadas
+0.05375392916089115
+Herida Cabeza
+Heridas Internas
+0.007359236749752716
+Herida Cabeza
+Heridas Internas
+0.002234923721909026
+Pupilas Dilatadas
+Heridas Internas
+0.01243192097191563
+Pupilas Dilatadas
+Heridas Internas
+0.045199348900260373
+Herida Cabeza
+Signos Vitales
+0.0048907966654746626
+Herida Cabeza
+Signos Vitales
+0.002845479402850888
+Pupilas Dilatadas
+Signos Vitales
+0.03702440509886733
+Pupilas Dilatadas
+Signos Vitales
+0.027053453810830814
+Heridas Internas
+Signos Vitales
+0.009712681583082729
+Heridas Internas
+Signos Vitales
+0.0697048999615082
+Herida Cabeza
+Pupilas Dilatadas
+0.00807523954641089
+Herida Cabeza
+Pupilas Dilatadas
+0.04762829524516013
+Herida Cabeza
+Pupilas Dilatadas
+0.00807523954641089
+Herida Cabeza
+Pupilas Dilatadas
+0.04762829524516013
+Heridas Internas
+Herida Cabeza
+0.007359236749752719
+Heridas Internas
+Herida Cabeza
+0.002804798669889894
+Signos Vitales
+Herida Cabeza
+0.004890796665474663
+Signos Vitales
+Herida Cabeza
+0.0020459455474930504
+Heridas Internas
+Pupilas Dilatadas
+0.01243192097191563
+Heridas Internas
+Pupilas Dilatadas
+0.00707726686168101
+Signos Vitales
+Pupilas Dilatadas
+0.03702440509886732
+Signos Vitales
+Pupilas Dilatadas
+0.006166467103399112
+Herida Cabeza
+Pupilas Dilatadas
+0.00807523954641089
+Herida Cabeza
+Pupilas Dilatadas
+0.02548494233149074
+Heridas Internas
+Signos Vitales
+0.009712681583082729
+Heridas Internas
+Signos Vitales
+0.07583708108498603
+Heridas Internas
+Herida Cabeza
+0.007359236749752719
+Heridas Internas
+Herida Cabeza
+0.0030537319950910357
+Signos Vitales
+Herida Cabeza
+0.004890796665474663
+Signos Vitales
+Herida Cabeza
+0.0201643281833629
+Heridas Internas
+Pupilas Dilatadas
+0.01243192097191563
+Heridas Internas
+Pupilas Dilatadas
+0.03076825598472903
+Signos Vitales
+Pupilas Dilatadas
+0.03702440509886732
+Signos Vitales
+Pupilas Dilatadas
+0.014241462497784286
+Herida Cabeza
+Pupilas Dilatadas
+0.00807523954641089
+Herida Cabeza
+Pupilas Dilatadas
+0.05375392916089115
+Heridas Internas
+Signos Vitales
+0.009712681583082729
+Heridas Internas
+Signos Vitales
+0.032480530760542546
+Heridas Internas
+Herida Cabeza
+0.007359236749752719
+Heridas Internas
+Herida Cabeza
+0.0022349237219090267
+Signos Vitales
+Herida Cabeza
+0.004890796665474663
+Signos Vitales
+Herida Cabeza
+0.0028454794028508886
+Heridas Internas
+Pupilas Dilatadas
+0.01243192097191563
+Heridas Internas
+Pupilas Dilatadas
+0.04519934890026038
+Signos Vitales
+Pupilas Dilatadas
+0.03702440509886732
+Signos Vitales
+Pupilas Dilatadas
+0.027053453810830817
+Herida Cabeza
+Pupilas Dilatadas
+0.00807523954641089
+Herida Cabeza
+Pupilas Dilatadas
+0.04762829524516013
+Heridas Internas
+Signos Vitales
+0.009712681583082729
+Heridas Internas
+Signos Vitales
+0.0697048999615082
+Heridas Internas
+Signos Vitales
+0.009712681583082729
+Heridas Internas
+Signos Vitales
+0.0697048999615082
+Herida Cabeza
+Pupilas Dilatadas
+0.00807523954641089
+Herida Cabeza
+Pupilas Dilatadas
+0.02548494233149074
+Heridas Internas
+Pupilas Dilatadas
+0.01243192097191563
+Heridas Internas
+Pupilas Dilatadas
+0.00707726686168101
+Herida Cabeza
+Signos Vitales
+0.0048907966654746626
+Herida Cabeza
+Signos Vitales
+0.0020459455474930504
+Heridas Internas
+Signos Vitales
+0.009712681583082729
+Heridas Internas
+Signos Vitales
+0.07583708108498603
+Pupilas Dilatadas
+Signos Vitales
+0.03702440509886733
+Pupilas Dilatadas
+Signos Vitales
+0.006166467103399111
+Herida Cabeza
+Heridas Internas
+0.007359236749752716
+Herida Cabeza
+Heridas Internas
+0.002804798669889894
+Herida Cabeza
+Pupilas Dilatadas
+0.00807523954641089
+Herida Cabeza
+Pupilas Dilatadas
+0.05375392916089115
+Heridas Internas
+Pupilas Dilatadas
+0.01243192097191563
+Heridas Internas
+Pupilas Dilatadas
+0.03076825598472903
+Herida Cabeza
+Signos Vitales
+0.0048907966654746626
+Herida Cabeza
+Signos Vitales
+0.0201643281833629
+Heridas Internas
+Signos Vitales
+0.009712681583082729
+Heridas Internas
+Signos Vitales
+0.032480530760542546
+Pupilas Dilatadas
+Signos Vitales
+0.03702440509886733
+Pupilas Dilatadas
+Signos Vitales
+0.014241462497784284
+Herida Cabeza
+Heridas Internas
+0.007359236749752716
+Herida Cabeza
+Heridas Internas
+0.0030537319950910357
+Herida Cabeza
+Pupilas Dilatadas
+0.00807523954641089
+Herida Cabeza
+Pupilas Dilatadas
+0.04762829524516013
+Heridas Internas
+Pupilas Dilatadas
+0.01243192097191563
+Heridas Internas
+Pupilas Dilatadas
+0.04519934890026038
+Herida Cabeza
+Signos Vitales
+0.0048907966654746626
+Herida Cabeza
+Signos Vitales
+0.002845479402850888
+Heridas Internas
+Signos Vitales
+0.009712681583082729
+Heridas Internas
+Signos Vitales
+0.0697048999615082
+Pupilas Dilatadas
+Signos Vitales
+0.03702440509886733
+Pupilas Dilatadas
+Signos Vitales
+0.027053453810830814
+Herida Cabeza
+Heridas Internas
+0.007359236749752716
+Herida Cabeza
+Heridas Internas
+0.002234923721909026
+Herida Cabeza
+Heridas Internas
+0.007359236749752716
+Herida Cabeza
+Heridas Internas
+0.002234923721909026
+Not V structure
+
+false true true false false 
+false false false true false 
+false false false false true 
+false false false false false 
+false false false false false 
+
+P(Colision = Severo) = 0.394018092728351
+P(Colision = Moderado) = 0.3821551141367796
+P(Colision = Leve) = 0.22382679313486936
+
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.5555555555555556
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.5555555555555556
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.6588235294117647
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.5833333333333334
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.6
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.8024691358024691
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.5
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.4090909090909091
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.16666666666666666
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.1875
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.12987012987012986
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.5
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.07246376811594203
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.2
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.25
+P(Colision = Severo | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.021739130434782608
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.32941176470588235
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.25
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.3
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.13580246913580246
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.25
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.45454545454545453
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.6666666666666666
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.6875
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.8051948051948052
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.125
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.18840579710144928
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.4
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.25
+P(Colision = Moderado | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.32608695652173914
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.1111111111111111
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.1111111111111111
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.011764705882352941
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.16666666666666666
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.1
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.06172839506172839
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.25
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = true Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.13636363636363635
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.16666666666666666
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.125
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Graves Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.06493506493506493
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.375
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Ligeras Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.7391304347826086
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [0.0-15.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [15.0-42.0] Signos Vitales = Default ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = [35.0-112.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = [42.0-127.0] Signos Vitales = Default ) = 0.4
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [0.0-35.0] ) = 0.3333333333333333
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = [35.0-112.0] ) = 0.5
+P(Colision = Leve | Herida Cabeza = false Heridas Internas = Falso Pupilas Dilatadas = Default Signos Vitales = Default ) = 0.6521739130434783
+
+P(Herida Cabeza = true) = 0.5294117647058824
+P(Herida Cabeza = false) = 0.47058823529411764
+
+P(Herida Cabeza = true | Colision = Severo ) = 0.7731642592317292
+P(Herida Cabeza = true | Colision = Moderado ) = 0.4816522864277552
+P(Herida Cabeza = true | Colision = Leve ) = 0.3259573697638335
+P(Herida Cabeza = false | Colision = Severo ) = 0.2268357407682708
+P(Herida Cabeza = false | Colision = Moderado ) = 0.5183477135722449
+P(Herida Cabeza = false | Colision = Leve ) = 0.6740426302361665
+
+P(Heridas Internas = Graves) = 0.417607223476298
+P(Heridas Internas = Ligeras) = 0.3747178329571106
+P(Heridas Internas = Falso) = 0.2076749435665914
+
+P(Heridas Internas = Graves | Colision = Severo ) = 0.43099849717873245
+P(Heridas Internas = Graves | Colision = Moderado ) = 0.4927798620219537
+P(Heridas Internas = Graves | Colision = Leve ) = 0.1021832412200552
+P(Heridas Internas = Ligeras | Colision = Severo ) = 0.4413653759742229
+P(Heridas Internas = Ligeras | Colision = Moderado ) = 0.20257683037082921
+P(Heridas Internas = Ligeras | Colision = Leve ) = 0.4734776751866614
+P(Heridas Internas = Falso | Colision = Severo ) = 0.12763612684704476
+P(Heridas Internas = Falso | Colision = Moderado ) = 0.3046433076072171
+P(Heridas Internas = Falso | Colision = Leve ) = 0.4243390835932835
+
+P(Pupilas Dilatadas = [0.0-15.0]) = 0.0022522522522522522
+P(Pupilas Dilatadas = [15.0-42.0]) = 0.0022522522522522522
+P(Pupilas Dilatadas = [42.0-127.0]) = 0.060810810810810814
+P(Pupilas Dilatadas = Default) = 0.9346846846846847
+
+P(Pupilas Dilatadas = [0.0-15.0] | Herida Cabeza = true ) = 0.19823148303975957
+P(Pupilas Dilatadas = [0.0-15.0] | Herida Cabeza = false ) = 0.1221414702405933
+P(Pupilas Dilatadas = [15.0-42.0] | Herida Cabeza = true ) = 0.13434723514947616
+P(Pupilas Dilatadas = [15.0-42.0] | Herida Cabeza = false ) = 0.11254902412704784
+P(Pupilas Dilatadas = [42.0-127.0] | Herida Cabeza = true ) = 0.13791479306256849
+P(Pupilas Dilatadas = [42.0-127.0] | Herida Cabeza = false ) = 0.15662887655695465
+P(Pupilas Dilatadas = Default | Herida Cabeza = true ) = 0.5295064887481958
+P(Pupilas Dilatadas = Default | Herida Cabeza = false ) = 0.6086806290754042
+
+P(Signos Vitales = [0.0-35.0]) = 0.002257336343115124
+P(Signos Vitales = [35.0-112.0]) = 0.06997742663656885
+P(Signos Vitales = Default) = 0.927765237020316
+
+P(Signos Vitales = [0.0-35.0] | Heridas Internas = Graves ) = 0.2438174847715176
+P(Signos Vitales = [0.0-35.0] | Heridas Internas = Ligeras ) = 0.16885816848101717
+P(Signos Vitales = [0.0-35.0] | Heridas Internas = Falso ) = 0.19614401880375912
+P(Signos Vitales = [35.0-112.0] | Heridas Internas = Graves ) = 0.20578698639177262
+P(Signos Vitales = [35.0-112.0] | Heridas Internas = Ligeras ) = 0.1521606602142115
+P(Signos Vitales = [35.0-112.0] | Heridas Internas = Falso ) = 0.159112007153373
+P(Signos Vitales = Default | Heridas Internas = Graves ) = 0.5503955288367097
+P(Signos Vitales = Default | Heridas Internas = Ligeras ) = 0.6789811713047713
+P(Signos Vitales = Default | Heridas Internas = Falso ) = 0.644743974042868
+

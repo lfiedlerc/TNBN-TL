@@ -1,0 +1,10 @@
+Severo false Graves 49.123220075218 33.952989392618946
+Moderado false Graves Default 32.95474595453988
+Moderado false Graves 45.090768704737314 5.300978372873067
+Severo true Graves 4.2405270812872455 Default
+Moderado false Graves Default 5.79687701280767
+Moderado false Graves Default 6.240759552237517
+Severo true Ligeras 6.764612509515387 Default
+Moderado true Graves 5.434469341059007 5.836056544666182
+Moderado false Graves Default 32.90350617444974
+Moderado false Graves Default 0.3028127299316097
