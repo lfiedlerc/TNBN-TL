@@ -58,9 +58,7 @@ public class TNBN_TL {
         
         boolean refNet = false;
         
-        //"C:/Users/lfiedlerc/Dropbox/Thesis/Experimentation/HIV/Learn Europe/10-fold CV 80pct/Transfer/Naive Transfer/Europe.conf";
-        //String configuration = "C:/Users/lfiedlerc/Dropbox/Thesis/Experimentation/HIV/Learn Subtype C/Learn from 100pct/TNBN_TL/C.conf";
-        String configuration = "C:/Users/lfiedlerc/Dropbox/Thesis/Experimentation/Collision Network/10-fold CV 100 records/Transfer/TNBN_TL/Refinement/Collision.conf";
+        String configuration = "/Experimentation/Collision Network/10-fold CV 100 records/Transfer/TNBN_TL/Refinement/Collision.conf";
         String eval = "Evaluation Results.txt";
         
         readEnvironment(configuration);
